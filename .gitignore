@@ -1,5 +1,4 @@
 node_modules
-dist
 .tmp
 .sass-cache
 client/bower_components
@@ -22,4 +21,3 @@ pids
 logs
 results
 
-node_modules
