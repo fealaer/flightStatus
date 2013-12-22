@@ -1,0 +1,8 @@
+{
+  "name": "angular-sanitize",
+  "version": "1.2.6-build.2016+sha.937caab",
+  "main": "./angular-sanitize.js",
+  "dependencies": {
+    "angular": "1.2.6-build.2016+sha.937caab"
+  }
+}
